@@ -1,0 +1,109 @@
+Messages:
+ "HELP":
+   Message:
+    Enabled: true
+    Value:
+     - " "
+     - "&6&l[&e&l!&6&l] &e&lRecon &6&lGangs"
+     - "&7&oCoded and configured by Recon Development"
+     - "&7&oThe most optimized and customizable on the market!"
+     - " "
+     - "&6&lCOMMANDS:"
+     - " &8» &6/gang - &fSends the help message"
+     - " &8» &6/gang create <name> - &fCreates a gang"
+     - " &8» &6/gang invite <player> - &fInvites a player"
+     - " &8» &6/gang kick <player> - &fKicks a player from your gang"
+     - " &8» &6/gang join <name> - &fJoins a gang"
+     - " &8» &6/gang top - &fOpens the top menu"
+     - " &8» &6/gang leave - &fLeaves your gang"
+     - " &8» &6/gang disband - &fDisbands your gang"
+ "INVALID-PLAYER":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You have entered a non-existent player!"
+ "ALREADY-IN-GANG":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You are already in a gang- you cannot join or create one!"
+ "ONLY-LETTERS":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You may only use letters &4A-Z&c when creating a gang!"
+ "CANNOT-KICK-SELF":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You cannot kick yourself from a gang!"
+ "NOT-IN-GANG":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c This player is not in your gang!"
+ "NOT-THE-LEADER":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You are not the leader, therefore you cannot kick or disband!"
+ "NAME-TAKEN":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c There is already a gang with this name!"
+ "LETTER-LIMIT":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You can have up to &48&c characters in a gang name!"
+ "NOT-IN-GANG":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You are not in a gang!"
+ "NOT-INVITED":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You have not been invited to join this gang!"
+ "LEADER-CANNOT-LEAVE":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c You are the leader of your gang, thus you cannot leave without transferring leadership!"
+ "GANG-CREATED":
+   Message:
+    Enabled: true
+    Value:
+     - "&2&l[&a&l!&2&l]&a You have successfully created your gang!"
+ "MEMBER-KICKED":
+   Message:
+    Enabled: true
+    Value:
+     - "&2&l[&a&l!&2&l]&a You have successfully kicked %player% from your gang!"
+ "MEMBER-LEFT":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&c&l]&c %member% has left your gang!"
+ "MEMBER-JOINED":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&c&l]&c %member% has joined your gang!"
+ "LEFT-GANG":
+   Message:
+    Enabled: true
+    Value:
+     - "&2&l[&a&l!&2&l]&a You have successfully left %gang%!"
+ "GANG-DISBANDED":
+   Message:
+    Enabled: true
+    Value:
+     - "&2&l[&a&l!&2&l]&a Your gang has been disbanded!"
+ "MEMBER-LIMIT-REACHED":
+   Message:
+    Enabled: true
+    Value:
+     - "&4&l[&c&l!&4&l]&c This gang has reached the max member limit!"

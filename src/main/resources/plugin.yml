@@ -1,0 +1,5 @@
+name: ReconGangs
+main: net.recondev.gangs.ReconGangs
+version: 1.0
+depend:
+ - ReconCommons

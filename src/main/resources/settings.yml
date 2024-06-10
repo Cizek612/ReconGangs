@@ -1,0 +1,21 @@
+Settings:
+  Allowed-Naming-Characters: ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+  Character-Limit: 8
+  Max-Members: 4
+
+Menus:
+ "TOP-MENU":
+   Size: 36
+   Title: "&8&lGANG TOP"
+   Top-Slots: [10,11,12,13,14,15]
+   Items:
+    "GANG":
+      Material: "PLAYER_HEAD"
+      Name: "&2&l#%position% &a&l%gang%"
+      Lore:
+       - ""
+       - "&aInformation"
+       - "&2&l-&7 Value: &2$&a%value_formatted%"
+       - "&2&l-&7 Leader: &f%leader%"
+
+
